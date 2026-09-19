@@ -9,11 +9,11 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 hour = int(input("ช่วงเวลา"))
 if hour >= 18:
-print("Night")
+ print("Night")
 elif hour >= 12:
-print("Afternoon")
+ print("Afternoon")
 elif hour <= 18:
-print("Afternoon")
+ print("Afternoon")
 else:
-print("Morning")
+ print("Morning")
 
