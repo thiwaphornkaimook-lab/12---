@@ -9,10 +9,10 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 weight = float(input("น้ำหนักสินค้า"))
 if weight >= 5:        
-print("จ่าย 100")
+ print("จ่าย 100")
 elif weight <= 5:
-print("จ่าย 50")
+ print("จ่าย 50")
 elif weight >= 1:
-print("จ่าย 50")
+ print("จ่าย 50")
 else:
-print("จ่าย 30")
+ print("จ่าย 30")
