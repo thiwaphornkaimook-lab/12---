@@ -8,11 +8,11 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 hour = int(input("ช่วงเวลา"))
-if hour >= 18
+if hour >= 18:
 print("Night")
-elif hour >= 12
+elif hour >= 12:
 print("Afternoon")
-elif hour <= 18
+elif hour <= 18:
 print("Afternoon")
 else:
 print("Morning")
