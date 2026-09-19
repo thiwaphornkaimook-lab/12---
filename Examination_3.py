@@ -8,6 +8,6 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 n =int(input("จำนวนเต็ม"))
 if (n / 5) == 0:
-print("YES")
+ print("YES")
 else:
-print("No")
+ print("No")
